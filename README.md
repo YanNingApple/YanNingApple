@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# About me 👋
+- 🔭 I am a student now.
+- 🌱 My major is mechanical engineering.
+- 🗨 I'm interested in MATLAB and Python.
 <!--
 **YanNingApple/YanNingApple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
